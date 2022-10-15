@@ -105,3 +105,5 @@ dist
 
 # custom ignore
 todo.txt
+
+/server/build
